@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Chandeliers
-datePublished: '2016-03-21T17:26:19.102Z'
-dateModified: '2016-03-21T17:26:12.140Z'
+description: "Chandelier re-spray. \_"
+datePublished: '2016-03-21T17:51:48.043Z'
+dateModified: '2016-03-21T17:51:47.666Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-21-chandeliers.md
