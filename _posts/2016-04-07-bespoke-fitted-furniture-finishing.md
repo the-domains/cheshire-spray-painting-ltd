@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Bespoke fitted furniture finishing.
-datePublished: '2016-04-07T14:28:07.488Z'
-dateModified: '2016-04-07T13:51:56.923Z'
+datePublished: '2016-04-07T15:07:36.391Z'
+dateModified: '2016-04-07T14:40:02.841Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-07-bespoke-fitted-furniture-finishing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-bespoke-fitted-furniture-finishing.md
-published: true
 url: bespoke-fitted-furniture-finishing/index.html
 _type: Article
 
