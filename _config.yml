@@ -1,6 +1,6 @@
 name: Cheshire Spray Painting Ltd.
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.75435
 typography_spectrum: 0.56074
 title: Cheshire Paint Spraying ltd. - Macclesfield
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.3125
   lightness: 0.4375
   saturation: 0.125
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.25
 purpose: []
