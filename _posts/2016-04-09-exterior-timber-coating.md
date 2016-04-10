@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Exterior Timber Coating.
-datePublished: '2016-04-09T15:49:07.577Z'
-dateModified: '2016-04-09T15:48:32.086Z'
+datePublished: '2016-04-10T11:24:46.075Z'
+dateModified: '2016-04-10T11:24:45.321Z'
 title: Exterior Timber Coatings to make wood look beautiful.
 author: []
 sourcePath: _posts/2016-04-09-exterior-timber-coating.md
