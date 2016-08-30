@@ -3,23 +3,26 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-19T11:35:09.394Z'
-dateModified: '2016-04-19T11:34:00.317Z'
-title: 'Our kitchen specific coatings are hardwearing and look great. Rejuvenate any kitchen for a fraction of the cost of a new one. We spray new kitchens so why not your old one. '
+datePublished: '2016-08-28T18:41:38.346Z'
+dateModified: '2016-08-28T18:41:37.451Z'
+title: >-
+  Our kitchen specific coatings are hardwearing and look great. Rejuvenate any
+  kitchen for a fraction of the cost of a new one. We spray new kitchens so why
+  not your old one. 
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-07-worktop-very-hard-anti-scratch-coating.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: worktop-very-hard-anti-scratch-coating/index.html
 _type: Article
 
