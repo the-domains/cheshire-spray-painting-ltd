@@ -1,22 +1,21 @@
 ---
-datePublished: '2016-08-28T19:17:15.795Z'
+datePublished: '2016-08-28T19:21:40.205Z'
+sourcePath: _posts/2016-08-28-external-door-respray.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T19:15:47.009Z'
-title: External Door Respray
+dateModified: '2016-08-28T19:21:39.442Z'
+title: External Door Re-spray
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-08-28-external-door-respray.md
 _type: Blurb
 
 ---
-# External Door Respray
+# External Door Re-spray
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4c5572e1b16370e11862cc32e3c3ba7e5bd3a09.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1a9d90d-172e-426d-8a93-a65ac9470cdb.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/748a172d5cbf20a2558f5640a01a9be5ed4aa153.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/047e01fb-dfd9-4d56-86a0-b1b18d96a4ea.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cf68d806c58432e6fc599190f011b44d457714b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c20b1c9b-fde8-4c6e-9372-dc89408a0564.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccb73407-e890-49a1-acd7-a3861e02e130.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f7a5f4a-dbf0-41db-a534-228d37fd10a8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dd3320fc046209f424fceb302d94286c4cd08e9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e4d5fbd882ce4c4685653851b1410e68025e981.jpg)
