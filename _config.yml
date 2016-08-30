@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Contact Us
+    id: ccd8d838-92a4-45b8-9aef-027fdffc7788
+    type: content
 favicon: null
 title: "Cheshire Paint Spraying ltd.\_"
 description: In Home/On Site/Spray Shop
