@@ -31,6 +31,9 @@ navigation:
   - name: New Kitchens & Re-Sprays.
     id: eec7424d-1bb1-4e2f-9b18-f26640bc7fc1
     type: content
+  - name: Windows
+    id: e2b9a528-f56a-43b1-97c3-1337a179b766
+    type: content
 favicon: null
 title: "Cheshire Paint Spraying ltd.\_"
 description: In Home/On Site/Spray Shop
